@@ -18,4 +18,3 @@ git config --global user.email "alexander_4_11_4@hotmail.com"
 git config --global core.editor subl
 git config --list
 ```
-Esta linea fue creada en la rama master.
