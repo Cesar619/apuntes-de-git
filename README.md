@@ -18,4 +18,3 @@ git config --global user.email "alexander_4_11_4@hotmail.com"
 git config --global core.editor subl
 git config --list
 ```
-Esta linea se agrego desde un equipo windows conectando al repositorio local con github a traves de HHTPS.
